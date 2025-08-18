@@ -1,5 +1,6 @@
-<img width="1500" height="800" alt="39a23902-7d7f-49fc-95dd-af0df9d70000" src="https://github.com/user-attachments/assets/9bb717fc-2efc-4b8b-ac4b-43cb6e5f7f1b" 
- />Hi, I'm Youssef Helal 👋 
+
+ <img width="1536" height="730" alt="GitHub Background" src="https://github.com/user-attachments/assets/322def3c-455e-411d-a31f-c78c649dccd3" />Hi, I'm Youssef Helal 👋 
+
 
 
 📊 **Aspiring Data Analyst | Excel | Google Sheets | Power BI | Tableau**  
