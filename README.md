@@ -1,16 +1,23 @@
-## Hi there 👋
+<img width="1536" height="1024" alt="39a23902-7d7f-49fc-95dd-af0df9d70000" src="https://github.com/user-attachments/assets/9bb717fc-2efc-4b8b-ac4b-43cb6e5f7f1b" />Hi, I'm Youssef Helal 👋 
 
-<!--
-**Youssef-Hela1/Youssef-Hela1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📊 **Aspiring Data Analyst | Excel | Google Sheets | Power BI | Tableau**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a young and driven data enthusiast with a strong foundation in analytics and visualization.  
+With hands-on experience in **Excel, Google Sheets, Power BI, and Tableau**, I have a keen eye for detail and a passion for telling compelling stories through data.  
+
+---
+
+## 🔧 Skills & Tools
+- **Data Analysis & Cleaning:** Excel, Google Sheets  
+- **Data Visualization:** Power BI, Tableau  
+- **Automation:** Google Apps Script (Sheets)  
+- **Other Tools:** GitHub, Jupyter Notebooks (beginner Python)
+
+
+
+  
+- ## 🌐 Let’s Connect  
+- 📧 Email: youssefhelal.yh@outlook.com 
+- 💼 [Youssef Helal](https://www.linkedin.com/in/youssef-helal-yh/)
+- 🖥️ [Youssef-Hela1](https://github.com/Youssef-Hela1)  
